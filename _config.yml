@@ -31,7 +31,7 @@ author: Jaegyu Nam
 author_bio: Hi, my name is jaegyu Nam. I built this site using devlopr-jekyll :D
 author_email: "jaegyu.nam@gmail.com"
 author_location: Korea
-author_website_url: "https://sujaykundu.com"
+author_website_url: "https://nanjaiquai.github.io/#/"
 typewrite-text: Better late than never. Constant dripping wears the stone.
 
 # Experiences
@@ -42,18 +42,18 @@ author_work_experiences:
               designation: Software Engineer
               description: Worked on various Sony Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+#            - company_name: Microsoft
+#              company_logo: microsoft.png
+#              company_url: https://microsoft.com
+#              designation: Azure Developer
+#              description: Worked on various Azure Cloud Products
+#              visibility: true
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: Changwon Univ
-                college_url: https://mit.org
+                college_name: Changwon National University
+                college_url: http://www.changwon.ac.kr/eng/main.do
                 college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true
@@ -61,13 +61,13 @@ author_education_details:
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+                project_title: PLCOpen PF
+                project_description: A Platform built for Beckoff and CodeSYS
+                project_url: null
                 visibility: true
               - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
+                project_title: Aeye-AI
+                project_description: A Platform built for AI Vision like a eye
                 project_url: https://hack4r.com
                 visibility: true
 
